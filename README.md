@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Aaron Fernandes</h1>
-- 📫 **aaronfernandescks@gmail.com**
+- 📫 aaronfernandescks@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
