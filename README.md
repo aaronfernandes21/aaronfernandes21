@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Aaron Fernandes</h1>
 
 
-
+![](2BH.gif)
 - 📫 aaronfernandescks@gmail.com
 
 <h3 align="left">Connect with me:</h3>
