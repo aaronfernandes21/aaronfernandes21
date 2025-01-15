@@ -2,7 +2,8 @@
 
 
 ![](2BH.gif)
-- 📫 aaronfernandescks2015@gmail.com
+- 📫 E-Mail aaronfernandescks2015@gmail.com
+- 👨‍💻 Portfolio [https://aaron-fernandes.vercel.app/](https://aaron-fernandes.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
