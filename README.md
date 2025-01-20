@@ -5,7 +5,7 @@
   <img src="2BH.gif" alt="Coding Animation" width="400">
 </p>
 
-<h3 align="center">🙈HEHE.....</h3>
+<h3 align="center">🙈HEHE....</h3>
 
 
 
