@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🙏, I'm Aaron Fernandes</h1>
-<h3 align="center">Greetings from the serene coastal city of Mangalore</h3>
+<h3 align="center">Greetings from the serene coastal city of Mangalore, Karnataka</h3>
 
 <p align="center">
   <img src="2BH.gif" alt="Coding Animation" width="400">
