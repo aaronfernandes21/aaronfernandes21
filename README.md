@@ -14,7 +14,7 @@
 ---
 
 ### 🌟 About Me
-- 🌐 **Portfolio**: [aaron-fernandes.vercel.app](https://aaron-fernandes.vercel.app/)
+
 - 📫 **Email**: aaronfernandescks2015@gmail.com  
 - 🎓 **Education**: Monkeying around with Computer Science at Sahyadri College of Engineering and Management 
 - 🚀 **Current Project**: The Office Verse
